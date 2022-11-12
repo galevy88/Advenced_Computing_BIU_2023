@@ -16,9 +16,9 @@ The website I used to fetch the images is:
 https://pythontutor.com/cpp.html#mode=edit
 
 Here as an exapmle:
-<p align="center">
+
 ![8_Dynamic_allocation](https://user-images.githubusercontent.com/91119719/201498852-38dc700e-86f7-4fe0-bf23-178e742fa5de.png)
-</p>
+
 
 The main goal of this repo is to be source of true knowledge about what we learned in the course and of course feel free to update it and add your own explinations and examples.
 
