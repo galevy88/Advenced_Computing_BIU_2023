@@ -17,7 +17,7 @@ https://pythontutor.com/cpp.html#mode=edit
 
 Here as an exapmle:
 <p align="center">
-  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/91119719/201498852-38dc700e-86f7-4fe0-bf23-178e742fa5de.png)">
+  <img src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/91119719/201498852-38dc700e-86f7-4fe0-bf23-178e742fa5de.png)">
 </p>
 
 
