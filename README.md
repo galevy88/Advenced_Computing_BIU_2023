@@ -16,10 +16,11 @@ The website I used to fetch the images is:
 https://pythontutor.com/cpp.html#mode=edit
 
 Here as an exapmle:
-<p align="center">
-  <img src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/91119719/201498852-38dc700e-86f7-4fe0-bf23-178e742fa5de.png)">
-</p>
 
+<p align="center">
+  <img width="460" height="300" src="![8_Dynamic_allocation](https://user-images.githubusercontent.com/91119719/201498961-1502904c-2511-4411-89db-9c8166f303ea.png)
+">
+</p>
 
 The main goal of this repo is to be source of true knowledge about what we learned in the course and of course feel free to update it and add your own explinations and examples.
 
