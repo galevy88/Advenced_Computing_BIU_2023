@@ -18,7 +18,7 @@ https://pythontutor.com/cpp.html#mode=edit
 Here as an exapmle:
 
 <p align="center">
-  <img width="460" height="300" src="![8_Dynamic_allocation](https://user-images.githubusercontent.com/91119719/201498961-1502904c-2511-4411-89db-9c8166f303ea.png)
+  <img src="![8_Dynamic_allocation](https://user-images.githubusercontent.com/91119719/201498961-1502904c-2511-4411-89db-9c8166f303ea.png)
 ">
 </p>
 
